@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:18:1-36:12
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:18:1-36:12
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:18:1-36:12
+MERGED from [com.android.support:support-v13:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/9980c1f8a6d2ca829744140fe5d51edc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7ac1188bb8cac2dff71e5a6cb84c5146/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/2c020817dce692fe5288bb4f86da46f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c328f82b9617d9782d9b8619b4b7baef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7f103fb5aa20119885849e6ed7f4967c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4110d3bb75411d8a80e07abe247b7fcb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9849a7607e9b05bbc9d41d88697b6848/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3e67f3a42d32cf74a376c9b9492a1b22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d8117dbef4ce243d06963dfc8a94248d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/13f5ca0db3848006638129fa86c5ed9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/705b9926a8c1ba0bb89277e25e64bdea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/xushun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c097fdef16c1827f6cf4647e6412e8ad/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:18:1-36:12
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:18:1-36:12
+	package
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:19:5-55
+	android:versionName
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+application
+ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:23:5-35:19
+	android:label
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:23:18-44
+	android:theme
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.android.notificationchannels.MainActivity
+ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:29:19-51
+	android:name
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/9980c1f8a6d2ca829744140fe5d51edc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/9980c1f8a6d2ca829744140fe5d51edc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7ac1188bb8cac2dff71e5a6cb84c5146/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7ac1188bb8cac2dff71e5a6cb84c5146/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/2c020817dce692fe5288bb4f86da46f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/2c020817dce692fe5288bb4f86da46f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c328f82b9617d9782d9b8619b4b7baef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c328f82b9617d9782d9b8619b4b7baef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7f103fb5aa20119885849e6ed7f4967c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7f103fb5aa20119885849e6ed7f4967c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4110d3bb75411d8a80e07abe247b7fcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4110d3bb75411d8a80e07abe247b7fcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9849a7607e9b05bbc9d41d88697b6848/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9849a7607e9b05bbc9d41d88697b6848/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3e67f3a42d32cf74a376c9b9492a1b22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3e67f3a42d32cf74a376c9b9492a1b22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d8117dbef4ce243d06963dfc8a94248d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d8117dbef4ce243d06963dfc8a94248d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/13f5ca0db3848006638129fa86c5ed9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/13f5ca0db3848006638129fa86c5ed9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/705b9926a8c1ba0bb89277e25e64bdea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/xushun/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/705b9926a8c1ba0bb89277e25e64bdea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/xushun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c097fdef16c1827f6cf4647e6412e8ad/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/xushun/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c097fdef16c1827f6cf4647e6412e8ad/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/xushun/Desktop/android-NotificationChannels-master/Application/src/main/AndroidManifest.xml

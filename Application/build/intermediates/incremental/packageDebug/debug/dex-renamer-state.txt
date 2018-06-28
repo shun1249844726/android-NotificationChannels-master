@@ -1,0 +1,4 @@
+#Thu Jun 28 14:46:52 CST 2018
+base.0=/Users/xushun/Desktop/android-NotificationChannels-master/Application/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
